@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "39454265843",
+    "project_id": "govengquizox",
+    "storage_bucket": "govengquizox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39454265843:android:2b2f9831eaa0ae52ad8286",
+        "android_client_info": {
+          "package_name": "kr.co.patox.govengquizox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39454265843-pouflopp4rfo4u0dj91s9sip21q6nufn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR7xD-f24uAROauNYOtcigZs7UEs0emaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39454265843-pouflopp4rfo4u0dj91s9sip21q6nufn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39454265843-8j149nqg9njj2vkmg1hlkcba876qa5ar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.co.patox.govengquizox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
